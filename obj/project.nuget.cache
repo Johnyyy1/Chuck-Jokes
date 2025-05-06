@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YJgRKOTi2l8=",
+  "dgSpecHash": "JkVEI1+BEjY=",
   "success": true,
   "projectFilePath": "C:\\Users\\jonas\\source\\repos\\Chuck-Jokes\\Chuck-Jokes\\Chuck-Jokes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jonas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jonas\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
