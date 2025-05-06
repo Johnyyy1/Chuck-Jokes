@@ -25,7 +25,7 @@ namespace Chuck_Jokes
                 }
                 else
                 {
-                    Console.WriteLine("Failed to retrieve fact.");
+                    Console.WriteLine("Failed.");
                     return null;
                 }
             }

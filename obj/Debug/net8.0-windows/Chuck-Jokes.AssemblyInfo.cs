@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Chuck-Jokes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+590ef48700e97871dee564095d2b50fc950f3609")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54b5e7dfea239288f4db2bbf35c05d4cadb6afd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Chuck-Jokes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Chuck-Jokes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

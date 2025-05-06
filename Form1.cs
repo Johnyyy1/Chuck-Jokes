@@ -29,7 +29,7 @@ namespace Chuck_Jokes
 
 
 
-                saveData.Save("logs.txt", fact.value, fact.icon_url);
+                saveData.Save("chuck_facts.txt", fact.value, fact.icon_url);
             }
             else
             {
@@ -38,7 +38,7 @@ namespace Chuck_Jokes
         }
         private void LoadLastSearch()
         {
-            loadData.Load("logs.txt", label2, pictureBox1);
+            loadData.Load("chuck_facts.txt", label2, pictureBox1);
         }
 
     }
